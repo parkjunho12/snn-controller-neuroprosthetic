@@ -120,15 +120,4 @@ Five model families were benchmarked on the **NinaPro DB6** dataset:
 
 ```bash
 # Clone repository
-git clone https://github.com/parkjunho12/edge-snn-robot-template.git
-cd edge-snn-robot-template
-
-# Create environment
-python3 -m venv .venv
-source .venv/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run experiment
-python src/train_hybrid.py --dataset ninapro_db6 --encoding delta
+git clone https://github.com/parkjunho12/snn-controller-neuroprosthetic.git
