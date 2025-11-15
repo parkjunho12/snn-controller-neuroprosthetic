@@ -47,13 +47,13 @@ Five model families were benchmarked on the **NinaPro DB6** dataset:
 **Metrics:** Accuracy, Macro-F1, spike counts, mean firing rate
 
 <p align="center">
-  <img src="files/neuroprosthetic_flow_general.png" width="700"/>
+  <img src="files/neuroprosthetic_flow_general.png" width="1000"/>
   <br/>
   <em>Overall workflow: preprocessing → encoding → model → evaluation.</em>
 </p>
 
 <p align="center">
-  <img src="files/neuroprosthetic_flow_general.png" width="700"/>
+  <img src="files/overall_structure.jpg" width="1000"/>
   <br/>
   <em>Overall Structure</em>
 </p>
