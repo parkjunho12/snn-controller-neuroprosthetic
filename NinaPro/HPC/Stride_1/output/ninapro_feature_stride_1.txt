@@ -1,0 +1,16 @@
+Loading and preprocessing data...
+Data shape: (1428729, 16)
+Labels shape: (1428729,)
+Original unique labels: [ 0  1  3  4  6  9 10 11]
+Gesture labels (excluding rest): [ 1  3  4  6  9 10 11]
+Number of gesture classes: 7
+Label mapping: {np.int8(1): 0, np.int8(3): 1, np.int8(4): 2, np.int8(6): 3, np.int8(9): 4, np.int8(10): 5, np.int8(11): 6}
+Window shape example: (16,)
+Training loader shape: 2
+Training samples: 681795
+Validation samples: 170449
+Test samples: 213061
+Model initialized with 16 input features and 7 classes
+Total parameters: 223815
+
+Starting training...
